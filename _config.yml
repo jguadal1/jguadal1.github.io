@@ -1,0 +1,20 @@
+# Site settings
+author: Joehann Guadalupe
+title: 
+header-img: img/home-bg.png
+email: joehann_g@yahoo.com
+copyright_name: Joehann Guadalupe
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  jguadal1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
