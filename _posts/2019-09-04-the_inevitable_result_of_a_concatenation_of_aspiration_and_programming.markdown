@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**The inevitable result of a  concatenation of aspiration and programming**"
+title:      "The inevitable result of a  concatenation of aspiration and programming"
 date:       2019-09-04 06:35:00 -0400
 permalink:  the_inevitable_result_of_a_concatenation_of_aspiration_and_programming
 ---
