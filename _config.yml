@@ -1,11 +1,11 @@
 # Site settings
-author: Joehann Guadalupe
-title: 
+author: Joehan Guadalupe
+title: IF I decide to learn Data Science THEN
 header-img: img/home-bg.png
 email: joehann_g@yahoo.com
-copyright_name: Joehann Guadalupe
+copyright_name: Joehan Guadalupe
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Ex Machina anyone?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jguadal1
